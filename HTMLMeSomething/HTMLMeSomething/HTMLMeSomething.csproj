@@ -10,8 +10,40 @@
 
   <ItemGroup>
     <Content Remove="wwwroot\index.html" />
+    <Content Remove="wwwroot\Sweet.html" />
+    <Content Remove="wwwroot\css\style.css" />
+    <Content Remove="wwwroot\images\dumpling images\3693-kroppkakor_av_kokt_potatis-3693.jpg" />
+    <Content Remove="wwwroot\images\dumpling images\butternut.jpg" />
+    <Content Remove="wwwroot\images\dumpling images\cherrry.jpg" />
+    <Content Remove="wwwroot\images\dumpling images\chickend.jpg" />
+    <Content Remove="wwwroot\images\dumpling images\gg.jpg" />
+    <Content Remove="wwwroot\images\dumpling images\grain-free-potstickers-2.jpg" />
+    <Content Remove="wwwroot\images\dumpling images\group.jpeg" />
+    <Content Remove="wwwroot\images\dumpling images\knedlliky-6-500x333.jpg" />
+    <Content Remove="wwwroot\images\dumpling images\main.jpg" />
+    <Content Remove="wwwroot\images\dumpling images\manduweb.jpg" />
+    <Content Remove="wwwroot\images\dumpling images\modak_620x350_71503576815.jpg" />
+    <Content Remove="wwwroot\images\dumpling images\pumpkin-empanada-pie-camote.jpg" />
+    <Content Remove="wwwroot\images\dumpling images\veganrainbow.jpg" />
+    <Content Remove="wwwroot\images\dumpling images\world.jpeg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="wwwroot\index.html" />
+    <None Include="wwwroot\Sweet.html" />
+    <None Include="wwwroot\css\style.css" />
+    <None Include="wwwroot\images\dumpling images\kroppkakor.jpg" />
+    <None Include="wwwroot\images\dumpling images\butternut.jpg" />
+    <None Include="wwwroot\images\dumpling images\cherrry.jpg" />
+    <None Include="wwwroot\images\dumpling images\chickend.jpg" />
+    <None Include="wwwroot\images\dumpling images\gg.jpg" />
+    <None Include="wwwroot\images\dumpling images\grain-free-potstickers-2.jpg" />
+    <None Include="wwwroot\images\dumpling images\group.jpeg" />
+    <None Include="wwwroot\images\dumpling images\knedlliky-6-500x333.jpg" />
+    <None Include="wwwroot\images\dumpling images\main.jpg" />
+    <None Include="wwwroot\images\dumpling images\manduweb.jpg" />
+    <None Include="wwwroot\images\dumpling images\modak.jpg" />
+    <None Include="wwwroot\images\dumpling images\pumpkin-empanada-pie-camote.jpg" />
+    <None Include="wwwroot\images\dumpling images\veganrainbow.jpg" />
+    <None Include="wwwroot\images\dumpling images\world.jpeg" />
   </ItemGroup>
 </Project>
