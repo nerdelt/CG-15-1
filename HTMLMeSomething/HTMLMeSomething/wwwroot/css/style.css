@@ -80,14 +80,24 @@
 }
 
 
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    background-color: white;
+}
 
 body {
     font-family: "Inconsolata", sans-serif;
     color: #4B0082;
     text-align: center;
-
+    margin-top: 110px;
 }
 
+img {
+    width: 85%;
+}
 
 h1 {
     font-family: "neon 80s", sans-serif;
@@ -99,7 +109,9 @@ h1 {
     background: -webkit-linear-gradient(120deg, #2CD8D5 0%, #C5C1FF 56%, #C5C1FF 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    padding: 0;
     margin: 0;
+
 }
 
 h2 {
@@ -110,6 +122,7 @@ h2 {
     background-image: linear-gradient(-225deg, #5271C4 0%, #B19FFF 48%, #ECA1FE 100%);
     font-family: "Inconsolata", sans-serif;
     padding: 10px;
+
 }
 
     h2:hover {
@@ -124,6 +137,10 @@ h3 {
 
 nav, a {
     text-decoration : none;
+}
+
+nav {
+    padding-bottom: 15px;
 }
 
 p {
@@ -173,8 +190,4 @@ p {
     transform: translate(-50%, -50%);
     color: black;
 }
-img{
-    width: 85%;
-}
-
 
