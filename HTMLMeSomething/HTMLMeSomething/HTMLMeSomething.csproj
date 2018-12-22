@@ -31,7 +31,6 @@
     <Content Remove="wwwroot\images\dumpling images\main.jpg" />
     <Content Remove="wwwroot\images\dumpling images\maindumpling copy.jpg" />
     <Content Remove="wwwroot\images\cherrry.jpg" />
-    <Content Remove="wwwroot\images\chickend.jpg" />
     <Content Remove="wwwroot\images\gg.jpg" />
     <Content Remove="wwwroot\images\grain-free-potstickers-2.jpg" />
     <Content Remove="wwwroot\images\group.jpeg" />
@@ -47,13 +46,14 @@
     <Content Remove="wwwroot\images\knedliky.jpg" />
     <Content Remove="wwwroot\images\butternutsquash.jpg" />
     <Content Remove="wwwroot\images\kroppkakor.jpg" />
+    <Content Remove="wwwroot\images\bas-best-chicken-and-dumplings.jpg" />
+    <Content Remove="wwwroot\images\cd.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="wwwroot\index.html" />
     <None Include="wwwroot\Sweet.html" />
     <None Include="wwwroot\css\style.css" />
     <None Include="wwwroot\images\cherrry.jpg" />
-    <None Include="wwwroot\images\chickend.jpg" />
     <None Include="wwwroot\images\gg.jpg" />
     <None Include="wwwroot\images\group.jpeg" />
     <None Include="wwwroot\images\main.jpg" />
